@@ -154,13 +154,3 @@ console.log(myDeck.deck);
 // let cardOne = myDeck.drawCard();
 
 // console.log(myDeck.getSuit(cardOne));
-
-
-
-/*
-{id: {Suit, Value, display}}
-
-
-
-
-*/
